@@ -20,7 +20,7 @@
 
 
 ## Demo
- Movie app [Here](https://www.linkedin.com/posts/marwa-mhmd-jasim_flutterdev-mobileappdevelopment-movieapp-activity-7295554061112590336-YXgz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAkZMkBX5KsC7sILkGHZ1_eouhd9mdmlTQ)
+ Movie app [Here](https://www.linkedin.com/posts/marwa-m-jasim_flutterdev-mobileappdevelopment-movieapp-activity-7318306271516864512-334Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnLTEgBJaveLItKUJPDx8XLjIKvCi7a7YM)
    
 ## Technologies Used
 
